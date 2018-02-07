@@ -4,6 +4,7 @@ columns = [1, 2, 3, 4, 5, 6]
 carpark = {}
 # subroutines
 def options():
+    #displays menu
     print("1. Reset all spaces in the car park to ‘empty’")
     print("2. Park a car")
     print("3. Remove a car")
